@@ -1,6 +1,6 @@
 # 应用中心-Apps
 
-> 嘟嘟科技应用, Apps
+> vue   video视频应用
 
 ## Build Setup
 
